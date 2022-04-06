@@ -26,7 +26,7 @@ void Imprimir(int a, int b, int* d, int* x, int* y)
     cout << endl;
     cout << endl;
 	cout << "ax + by = d" << endl;
-	cout << "29x + 11y = 1" << endl;
+	cout << a  << "x + " << b << "y" << " = " << d << endl;
 	cout << " " << a << "(" << *x << ")" << " + " << b << "(" << *y << ")" << " = " << *d << endl;
 	cout << "x = " << *x << " || " << " y = " << *y << " || " << " d = " << *d << endl; 
 }
