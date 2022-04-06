@@ -11,11 +11,11 @@ y finalmente y será igual a la operación de x1 - a/b * y1, esto se irá repiti
 para poder así tener los valores de d,x, y. Finalmente solo queda imprimir los valores finales de cada variable(a, b, d, x, y).
 
 Ejercicios 
-1.- 128x + 138y = 2
+1.- 128x + 138y = 2 -> 
   x = 22  ||   y = -21
 
-2.- 311x + 337y = 7
+2.- 311x + 337y = 7 -> 
   x = -13  ||  y = -12
   
-3.- 991x + 997y = -2
+3.- 991x + 997y = -2 -> 
   x = 166  ||  y = -165
